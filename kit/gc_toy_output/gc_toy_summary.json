@@ -1,0 +1,63 @@
+{
+  "model": "Offline scalar discrete leakage and array-factor toy",
+  "parameters": {
+    "target_wavelength_um": 0.595,
+    "pitch_um": 0.35,
+    "periods": 18,
+    "duty_cycle": 0.5,
+    "effective_index_at_target": 2.05,
+    "group_index_at_target": 2.2,
+    "collection_medium_index": 1.0,
+    "reference_amplitude_leakage_per_um": 0.1,
+    "reference_duty_cycle": 0.5,
+    "target_angle_deg": null,
+    "gaussian_amplitude_waist_um": 2.5,
+    "gaussian_center_fraction": 0.5,
+    "wavelength_min_um": 0.565,
+    "wavelength_max_um": 0.625,
+    "wavelength_samples": 241,
+    "angle_min_deg": -80.0,
+    "angle_max_deg": 80.0,
+    "angle_samples": 2001,
+    "parameter_status": "Illustrative analytical inputs, not a measured or simulated lithium-niobate stack."
+  },
+  "derived": {
+    "length_um": 6.3,
+    "phase_match_angle_deg": 20.487315114722644,
+    "target_angle_deg": 20.487315114722644,
+    "chosen_extracted_fraction": 0.7163459735002297,
+    "remaining_guided_fraction": 0.2836540264997704,
+    "uniform_aperture_overlap_at_target": 0.8254246348725118,
+    "apodized_aperture_overlap_at_target": 0.9999999999999997
+  },
+  "equations": {
+    "alpha": "dA/dx=-alpha_amp A; dP/dx=-2 alpha_amp P",
+    "cell_power": "q_j=P_j[1-exp(-2 alpha_amp,j pitch)]",
+    "uniform_strength": "alpha_amp(d)=alpha_ref [sin(pi d)/sin(pi d_ref)]^2, an illustrative first-harmonic law",
+    "phase": "Delta_k=beta(lambda)-2pi n_clad sin(theta)/lambda-2pi/pitch",
+    "array": "F(theta)=sum_j sqrt(q_j) exp(i Delta_k x_j)",
+    "target": "w_j proportional to exp[-2((x_j-xc)/waist)^2]",
+    "overlap": "|sum_j sqrt(q_j w_j) exp(i Delta_k x_j)|^2 / [sum_j q_j sum_j w_j]"
+  },
+  "assumptions": [
+    "Unit guided input power; all prescribed guided depletion is assigned to toy emitted cells.",
+    "No reflection, absorption, upward/downward partition, vector radiation element pattern, substrate interference or finite transverse width.",
+    "No calibrated dependence on film thickness, etch, material tensor or real duty-cycle scattering.",
+    "First-order beta dispersion; leakage and target aperture held independent of wavelength.",
+    "Gaussian matching is imposed by construction; overlap near one is not independent validation.",
+    "Array intensity is normalized to its own peak, and overlap is normalized within the discrete aperture. Neither is absolute fiber coupling."
+  ],
+  "checks": {
+    "uniform_power_conservation_error": 0.0,
+    "apodized_power_conservation_error": 1.1102230246251565e-16,
+    "equal_total_extraction_error": 0.0,
+    "inverse_leakage_reconstruction_error": 0.0,
+    "exact_phase_match_mismatch_rad_per_um": 0.0,
+    "matched_apodized_overlap": 0.9999999999999997,
+    "overlap_bounds_passed": true,
+    "monotone_guided_power_passed": true
+  },
+  "fdtd_run": false,
+  "network_used": false,
+  "source_sha256": "3283440657966b39aee4fe448ca6655ae34023372fa5e90b66e984c96ba8b450"
+}

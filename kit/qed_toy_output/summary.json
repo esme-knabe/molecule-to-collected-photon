@@ -1,0 +1,405 @@
+{
+  "model_revision": "qed-toy-r001",
+  "config": {
+    "model_revision": "qed-toy-r001",
+    "status": "illustrative analytical parameters; not fitted to a device or molecule",
+    "wavelength_nm": 595.0,
+    "lifetime_ns": 5.0,
+    "g_bright_over_2pi_MHz": 100.0,
+    "kappa_intrinsic_over_2pi_MHz": 100.0,
+    "kappa_external_over_2pi_MHz": 500.0,
+    "gamma_phi_over_2pi_MHz": 30.0,
+    "detuning_over_2pi_MHz": 0.0,
+    "reference_quantum_yield": 0.8,
+    "zpl_fraction_of_radiative_decay": 0.3,
+    "evanescent_field_amplitude_length_nm": 100.0,
+    "eta_propagation": 0.9,
+    "eta_grating_to_selected_mode": 0.35,
+    "eta_detector": 0.7,
+    "strong_scenario": {
+      "g_bright_over_2pi_MHz": 1000.0,
+      "kappa_intrinsic_over_2pi_MHz": 30.0,
+      "kappa_external_over_2pi_MHz": 70.0,
+      "gamma_phi_over_2pi_MHz": 1.0
+    },
+    "random_seed": 5952026,
+    "random_check_cases": 40
+  },
+  "conventions": {
+    "time": "ns",
+    "internal_rates": "ns^-1",
+    "detuning": "omega_c-omega_e",
+    "hamiltonian_single": "H/hbar=[[0,g],[g,Delta]] for real g",
+    "kappa": "energy / photon-number decay; amplitude decay kappa/2",
+    "gamma1": "excited population decay",
+    "gamma_phi": "pure optical coherence decay",
+    "gamma2": "gamma1/2+gamma_phi",
+    "ring_g": "|g_CW|^2+|g_CCW|^2=g_bright^2"
+  },
+  "default_probabilities": {
+    "background_zpl": 0.09033611289503583,
+    "background_sideband": 0.21078426342175027,
+    "nonradiative": 0.0752800940791965,
+    "intrinsic": 0.10393325493400288,
+    "bus": 0.5196662746700144
+  },
+  "default_mean_first_loss_time_ns": 2.0474172647236797,
+  "default_collection_stages": {
+    "bus": 0.5196662746700144,
+    "after_propagation": 0.46769964720301294,
+    "fiber": 0.16369487652105452,
+    "detected": 0.11458641356473816
+  },
+  "symmetric_ring_one_collected_arm": {
+    "P_bus_one_arm": 0.2598331373350072,
+    "P_detected_one_arm": 0.05729320678236908,
+    "assumptions": "D=0, J=0, same total bright coupling and independent losses; only one bus arm collected"
+  },
+  "bus_loading_optimum": {
+    "kappa_external_over_2pi_MHz": 429.938132638601,
+    "probability": 0.5217846322093194
+  },
+  "dynamics_scenarios": {
+    "Default": {
+      "parameters": {
+        "model_revision": "qed-toy-r001",
+        "status": "illustrative analytical parameters; not fitted to a device or molecule",
+        "wavelength_nm": 595.0,
+        "lifetime_ns": 5.0,
+        "g_bright_over_2pi_MHz": 100.0,
+        "kappa_intrinsic_over_2pi_MHz": 100.0,
+        "kappa_external_over_2pi_MHz": 500.0,
+        "gamma_phi_over_2pi_MHz": 30.0,
+        "detuning_over_2pi_MHz": 0.0,
+        "reference_quantum_yield": 0.8,
+        "zpl_fraction_of_radiative_decay": 0.3,
+        "evanescent_field_amplitude_length_nm": 100.0,
+        "eta_propagation": 0.9,
+        "eta_grating_to_selected_mode": 0.35,
+        "eta_detector": 0.7,
+        "strong_scenario": {
+          "g_bright_over_2pi_MHz": 1000.0,
+          "kappa_intrinsic_over_2pi_MHz": 30.0,
+          "kappa_external_over_2pi_MHz": 70.0,
+          "gamma_phi_over_2pi_MHz": 1.0
+        },
+        "random_seed": 5952026,
+        "random_check_cases": 40
+      },
+      "probabilities_infinite_time": {
+        "background_zpl": 0.09033611289503583,
+        "background_sideband": 0.21078426342175027,
+        "nonradiative": 0.0752800940791965,
+        "intrinsic": 0.10393325493400288,
+        "bus": 0.5196662746700144
+      },
+      "finite_time_ns": 15.0,
+      "finite_remaining_excitation": 9.607611120358062e-05,
+      "finite_counter_conservation_error": 3.3306690738754696e-16
+    },
+    "Coherent exchange example": {
+      "parameters": {
+        "model_revision": "qed-toy-r001",
+        "status": "illustrative analytical parameters; not fitted to a device or molecule",
+        "wavelength_nm": 595.0,
+        "lifetime_ns": 5.0,
+        "g_bright_over_2pi_MHz": 1000.0,
+        "kappa_intrinsic_over_2pi_MHz": 30.0,
+        "kappa_external_over_2pi_MHz": 70.0,
+        "gamma_phi_over_2pi_MHz": 1.0,
+        "detuning_over_2pi_MHz": 0.0,
+        "reference_quantum_yield": 0.8,
+        "zpl_fraction_of_radiative_decay": 0.3,
+        "evanescent_field_amplitude_length_nm": 100.0,
+        "eta_propagation": 0.9,
+        "eta_grating_to_selected_mode": 0.35,
+        "eta_detector": 0.7,
+        "strong_scenario": {
+          "g_bright_over_2pi_MHz": 1000.0,
+          "kappa_intrinsic_over_2pi_MHz": 30.0,
+          "kappa_external_over_2pi_MHz": 70.0,
+          "gamma_phi_over_2pi_MHz": 1.0
+        },
+        "random_seed": 5952026,
+        "random_check_cases": 40
+      },
+      "probabilities_infinite_time": {
+        "background_zpl": 0.05809567261296275,
+        "background_sideband": 0.1355565694302464,
+        "nonradiative": 0.048413060510802276,
+        "intrinsic": 0.2273804092337966,
+        "bus": 0.530554288212192
+      },
+      "finite_time_ns": 8.0,
+      "finite_remaining_excitation": 0.036388779740610125,
+      "finite_counter_conservation_error": 6.661338147750939e-16
+    }
+  },
+  "figures": [
+    {
+      "id": "qed01-position-orientation",
+      "files": {
+        "png": "figures/qed01-position-orientation.png",
+        "pdf": "figures/qed01-position-orientation.pdf",
+        "svg": "figures/qed01-position-orientation.svg"
+      },
+      "caption": "A real dipole gives a cos\u00b2 orientation factor. An assumed field amplitude exp(\u2212z/ell), with ell=100 nm, gives coupling squared exp(\u22122z/ell). These factors do not come from a calculated LN field.",
+      "parameters": {
+        "field_amplitude_decay_length_nm": 100.0
+      },
+      "evidence_class": "illustrative analytical toy",
+      "sha256": {
+        "png": "78c2eb4d348e4d8aea65baa7cec14104df703ecd66fbb51ba95c99dbfe05e434",
+        "pdf": "9758fb0bb7bb6105a862eefcbea61c4385e3ab51392ef566e47f3b5b7f16f25d",
+        "svg": "9137ff358fc19f4d28f19703cae86db0629eaf4afd2bb6b4188125a4772322c1"
+      }
+    },
+    {
+      "id": "qed02-molecular-branching",
+      "files": {
+        "png": "figures/qed02-molecular-branching.png",
+        "pdf": "figures/qed02-molecular-branching.pdf",
+        "svg": "figures/qed02-molecular-branching.svg"
+      },
+      "caption": "Irreversible additional-channel model: Gamma_c=F_extra s q gamma_1^0. Cavity capture, total radiative yield, and the ZPL fraction of fluorescence use different denominators. F_extra denotes added ZPL decay; it is not the total ZPL enhancement.",
+      "parameters": {
+        "q": 0.8,
+        "s": 0.3,
+        "approximation": "irreversible added cavity channel; no coherent reabsorption"
+      },
+      "evidence_class": "illustrative analytical toy",
+      "sha256": {
+        "png": "4e1f4597a62a511a815ce6179ef7bd3066dc26563303a72a4e65a0077a9b10d9",
+        "pdf": "76777ffe7c85a24e81bbe24e9f376ea2a7c55ab896de2d669fb7dbc919284f05",
+        "svg": "af99a40e812053f49097407dae7f2af66c2364062f2c05135334eb340bfc6729"
+      }
+    },
+    {
+      "id": "qed03-excitation-dynamics",
+      "files": {
+        "png": "figures/qed03-excitation-dynamics.png",
+        "pdf": "figures/qed03-excitation-dynamics.pdf",
+        "svg": "figures/qed03-excitation-dynamics.svg"
+      },
+      "caption": "Exact dynamics within the Markovian one-excitation model, initially |e,0>. Top: emitter and cavity populations. Bottom: cumulative loss probabilities. Default: (g,kappa_i,kappa_ex,gamma_phi)/(2pi)=(100,100,500,30) MHz. Coherent example: (1000,30,70,1) MHz. Both have gamma_1=0.2 ns^-1 and Delta=0. Residual population plus all counters remains one.",
+      "parameters": {
+        "scenarios": {
+          "Default": {
+            "parameters": {
+              "model_revision": "qed-toy-r001",
+              "status": "illustrative analytical parameters; not fitted to a device or molecule",
+              "wavelength_nm": 595.0,
+              "lifetime_ns": 5.0,
+              "g_bright_over_2pi_MHz": 100.0,
+              "kappa_intrinsic_over_2pi_MHz": 100.0,
+              "kappa_external_over_2pi_MHz": 500.0,
+              "gamma_phi_over_2pi_MHz": 30.0,
+              "detuning_over_2pi_MHz": 0.0,
+              "reference_quantum_yield": 0.8,
+              "zpl_fraction_of_radiative_decay": 0.3,
+              "evanescent_field_amplitude_length_nm": 100.0,
+              "eta_propagation": 0.9,
+              "eta_grating_to_selected_mode": 0.35,
+              "eta_detector": 0.7,
+              "strong_scenario": {
+                "g_bright_over_2pi_MHz": 1000.0,
+                "kappa_intrinsic_over_2pi_MHz": 30.0,
+                "kappa_external_over_2pi_MHz": 70.0,
+                "gamma_phi_over_2pi_MHz": 1.0
+              },
+              "random_seed": 5952026,
+              "random_check_cases": 40
+            },
+            "probabilities_infinite_time": {
+              "background_zpl": 0.09033611289503583,
+              "background_sideband": 0.21078426342175027,
+              "nonradiative": 0.0752800940791965,
+              "intrinsic": 0.10393325493400288,
+              "bus": 0.5196662746700144
+            },
+            "finite_time_ns": 15.0,
+            "finite_remaining_excitation": 9.607611120358062e-05,
+            "finite_counter_conservation_error": 3.3306690738754696e-16
+          },
+          "Coherent exchange example": {
+            "parameters": {
+              "model_revision": "qed-toy-r001",
+              "status": "illustrative analytical parameters; not fitted to a device or molecule",
+              "wavelength_nm": 595.0,
+              "lifetime_ns": 5.0,
+              "g_bright_over_2pi_MHz": 1000.0,
+              "kappa_intrinsic_over_2pi_MHz": 30.0,
+              "kappa_external_over_2pi_MHz": 70.0,
+              "gamma_phi_over_2pi_MHz": 1.0,
+              "detuning_over_2pi_MHz": 0.0,
+              "reference_quantum_yield": 0.8,
+              "zpl_fraction_of_radiative_decay": 0.3,
+              "evanescent_field_amplitude_length_nm": 100.0,
+              "eta_propagation": 0.9,
+              "eta_grating_to_selected_mode": 0.35,
+              "eta_detector": 0.7,
+              "strong_scenario": {
+                "g_bright_over_2pi_MHz": 1000.0,
+                "kappa_intrinsic_over_2pi_MHz": 30.0,
+                "kappa_external_over_2pi_MHz": 70.0,
+                "gamma_phi_over_2pi_MHz": 1.0
+              },
+              "random_seed": 5952026,
+              "random_check_cases": 40
+            },
+            "probabilities_infinite_time": {
+              "background_zpl": 0.05809567261296275,
+              "background_sideband": 0.1355565694302464,
+              "nonradiative": 0.048413060510802276,
+              "intrinsic": 0.2273804092337966,
+              "bus": 0.530554288212192
+            },
+            "finite_time_ns": 8.0,
+            "finite_remaining_excitation": 0.036388779740610125,
+            "finite_counter_conservation_error": 6.661338147750939e-16
+          }
+        }
+      },
+      "evidence_class": "illustrative analytical toy",
+      "sha256": {
+        "png": "1de414788e3cf604745ffaa7900c61f61d745d46153e1b344d40bcc771e4c567",
+        "pdf": "8bc738297dd9749bf086ff5ff9badc2707a35911ceffa4c1bd54dedf07d6edd0",
+        "svg": "afa7e08e12d0cb613cc02fc40dd266d8166d80f03234f28345402db161a6a263"
+      }
+    },
+    {
+      "id": "qed04-bus-loading",
+      "files": {
+        "png": "figures/qed04-bus-loading.png",
+        "pdf": "figures/qed04-bus-loading.pdf",
+        "svg": "figures/qed04-bus-loading.svg"
+      },
+      "caption": "Increasing external loading improves the probability that a cavity photon exits into the bus, while it broadens the cavity and reduces emitter capture. The maximum exact single-excitation bus probability need not coincide with empty-ring critical coupling. g, intrinsic loss, gamma_1 and gamma_phi are held at their default values.",
+      "parameters": {
+        "optimum_kappa_ex_over_2pi_MHz": 429.938132638601,
+        "optimum_P_bus": 0.5217846322093194,
+        "critical_kappa_ex_over_2pi_MHz": 100.0
+      },
+      "evidence_class": "illustrative analytical toy",
+      "sha256": {
+        "png": "6d100936e2be4aac358eb9fa2d18ab94208c3f8b41bba177ed1177aa088ab1be",
+        "pdf": "52e0b6de3fb5250e2da1ab450044bb0fe08a81b94e7251b9c8e3784bfc744d0e",
+        "svg": "bcb9b9f59f28c05ff0f5d7595c22c81da1c85a768c2a1f52acbc99ac6047621e"
+      }
+    },
+    {
+      "id": "qed05-detuning-dephasing",
+      "files": {
+        "png": "figures/qed05-detuning-dephasing.png",
+        "pdf": "figures/qed05-detuning-dephasing.pdf",
+        "svg": "figures/qed05-detuning-dephasing.svg"
+      },
+      "caption": "Exact integrated emission probability for the same one-excitation model. Pure dephasing reduces resonant transfer, but can increase capture for a detuned emitter by broadening its spectral access to the cavity. This plot calculates probabilities, not photon indistinguishability or a molecular temperature dependence.",
+      "parameters": {
+        "detuning_range_over_2pi_GHz": [
+          -3,
+          3
+        ],
+        "gamma_phi_over_2pi_MHz": [
+          0,
+          30,
+          300,
+          3000
+        ]
+      },
+      "evidence_class": "illustrative analytical toy",
+      "sha256": {
+        "png": "fd21d62ff6884cfba53cd6d7f94056aa769eeddd1ba9b92e87adef722d52ecde",
+        "pdf": "19ffd250b75a219caa7bec1f529b0d9ecaec38b2dcf385bef94a060a92bf5600",
+        "svg": "1e08033510283bac537db66d1f6009bf3235f8fb9c334f9f3c76a55e2db0c3dd"
+      }
+    },
+    {
+      "id": "qed06-direction-backscatter",
+      "files": {
+        "png": "figures/qed06-direction-backscatter.png",
+        "pdf": "figures/qed06-direction-backscatter.pdf",
+        "svg": "figures/qed06-direction-backscatter.svg"
+      },
+      "caption": "Two traveling ring modes with |g_CW|\u00b2+|g_CCW|\u00b2=g_B\u00b2. D sets the hypothetical directional coupling fractions (1\u00b1D)/2. The real linear-dipole reciprocal baseline is D=0. At D=1, coherent CW\u2013CCW backscatter redistributes emission between bus directions and shifts the standing-wave resonances. Both cavity modes have the same default loss rates; Delta=0, J is real, and the relative dipole-coupling phase is zero.",
+      "parameters": {
+        "g_bright_over_2pi_MHz": 100.0,
+        "backscatter_J_over_2pi_MHz_range": [
+          0,
+          600
+        ],
+        "D_for_backscatter": 1,
+        "relative_coupling_phase_rad": 0
+      },
+      "evidence_class": "illustrative analytical toy",
+      "sha256": {
+        "png": "1a622b362191db1dd8e09e0df52a11c4fb55056a1ca176cbe680072425abfc5b",
+        "pdf": "5e90599bd60519f3ac01ab84de6be152ecb775c45a7b604b10d87fb4c615be6a",
+        "svg": "35fb3f56a1d947a2eb51a390c5c90f8da4945d241bde25a2bb870eee1e782fca"
+      }
+    },
+    {
+      "id": "qed07-collection-budget",
+      "files": {
+        "png": "figures/qed07-collection-budget.png",
+        "pdf": "figures/qed07-collection-budget.pdf",
+        "svg": "figures/qed07-collection-budget.svg"
+      },
+      "caption": "The default single-cavity-mode case with one bus output, followed by illustrative passive efficiencies eta_prop=0.9, eta_GC=0.35 into one selected fiber mode, and eta_det=0.7. Every bar is per initial emitter excitation. A one-way cascade is assumed, without optical feedback from the grating. For the equally coupled CW/CCW ring with only one collected arm, the bus and detected probabilities are each half these values. The final-channel probabilities sum to one; the chosen grating efficiency is an input, not an FDTD result.",
+      "parameters": {
+        "eta_propagation": 0.9,
+        "eta_grating": 0.35,
+        "eta_detector": 0.7,
+        "stage_probabilities": [
+          0.5196662746700144,
+          0.46769964720301294,
+          0.16369487652105452,
+          0.11458641356473816
+        ],
+        "terminal_channels": {
+          "Other emitter decay": 0.3764004703959826,
+          "Intrinsic cavity loss": 0.10393325493400288,
+          "Downstream optical loss": 0.35597139814895984,
+          "Detector miss": 0.049108462956316365,
+          "Detected": 0.11458641356473816
+        }
+      },
+      "evidence_class": "illustrative analytical toy",
+      "sha256": {
+        "png": "cd13e62dd39fde00395e40cde04fa419ad97b4a2dcc2f2596a044d687b624198",
+        "pdf": "7ba43c498a8547ea203136d2f4f79cc70e8159202791613465b5ab6e08ac85f1",
+        "svg": "1c99323271ea5ddbd95f01a446d0838d0aa6e1dcd0344c8c89a1fd0e6e90a171"
+      }
+    }
+  ],
+  "checks": {
+    "status": "passed",
+    "max_closed_formula_abs_error": 2.220446049250313e-16,
+    "max_integrated_conservation_error": 4.440892098500626e-16,
+    "max_finite_counter_conservation_error": 6.661338147750939e-16,
+    "max_finite_vs_matrix_exponential_error": 1.85176217734961e-11,
+    "minimum_density_eigenvalue": -7.366012745600157e-11,
+    "max_hermiticity_error": 7.834923709199739e-15,
+    "zero_g_bus_probability": 0.0,
+    "zero_external_bus_probability": 0.0,
+    "ring_bright_mode_reduction_error": 1.6653345369377348e-16,
+    "ring_finite_counter_conservation_error": 4.440892098500626e-16,
+    "scope": "Algebraic/numerical consistency of this finite toy; no physical device validation."
+  },
+  "environment": {
+    "python": "3.13.11",
+    "numpy": "2.4.4",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.8",
+    "font_path": "/System/Library/Fonts/Supplemental/Trebuchet MS.ttf",
+    "math_font": "Matplotlib Computer Modern mathtext"
+  },
+  "source_sha256": "3553211ecdb34c81798c2d895fc9356d244feda6252f99aeccd2dae024361243",
+  "limits": [
+    "No drive, re-excitation, multiphotons or g2 prediction.",
+    "No actual electromagnetic field, molecular spectrum or device is fitted.",
+    "Markovian independent loss channels and emitter pure dephasing.",
+    "No direct-emitter/cavity common-bath interference or delayed grating feedback.",
+    "One-way scalar downstream factors; grating efficiency is illustrative."
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "scope": "Offline analytical toy only; no FDTD, cloud operation, credential or supplied FSP use.",
+  "python": "3.13",
+  "numpy": "2.4.4",
+  "matplotlib": "3.10.8",
+  "default_checks": {
+    "uniform_power_conservation_error": 0.0,
+    "apodized_power_conservation_error": 1.1102230246251565e-16,
+    "equal_total_extraction_error": 0.0,
+    "inverse_leakage_reconstruction_error": 0.0,
+    "exact_phase_match_mismatch_rad_per_um": 0.0,
+    "matched_apodized_overlap": 0.9999999999999997,
+    "overlap_bounds_passed": true,
+    "monotone_guided_power_passed": true
+  },
+  "independent_checks": {
+    "bragg_angle_error_deg": -1.0658141036401503e-14,
+    "angular_peak_error_deg": -0.007315114722651117,
+    "angular_grid_step_deg": 0.08,
+    "uniform_integrated_loss_error": 1.1102230246251565e-16,
+    "duty_reduction_decreases_toy_extraction": true,
+    "invalid_parameter_checks": 4,
+    "CSV_round_trip_power_check": true
+  },
+  "parameter_variations": [
+    {
+      "updates": {
+        "pitch_um": 0.33,
+        "target_angle_deg": 20.487315114722644
+      },
+      "checks": {
+        "uniform_power_conservation_error": 2.220446049250313e-16,
+        "apodized_power_conservation_error": 1.1102230246251565e-16,
+        "equal_total_extraction_error": 0.0,
+        "inverse_leakage_reconstruction_error": 6.938893903907228e-18,
+        "exact_phase_match_mismatch_rad_per_um": 0.0,
+        "matched_apodized_overlap": 1.0,
+        "overlap_bounds_passed": true,
+        "monotone_guided_power_passed": true
+      }
+    },
+    {
+      "updates": {
+        "duty_cycle": 0.3
+      },
+      "checks": {
+        "uniform_power_conservation_error": 0.0,
+        "apodized_power_conservation_error": 0.0,
+        "equal_total_extraction_error": 1.1102230246251565e-16,
+        "inverse_leakage_reconstruction_error": 1.3877787807814457e-17,
+        "exact_phase_match_mismatch_rad_per_um": 0.0,
+        "matched_apodized_overlap": 1.0,
+        "overlap_bounds_passed": true,
+        "monotone_guided_power_passed": true
+      }
+    },
+    {
+      "updates": {
+        "periods": 30
+      },
+      "checks": {
+        "uniform_power_conservation_error": 1.1102230246251565e-16,
+        "apodized_power_conservation_error": 0.0,
+        "equal_total_extraction_error": 2.220446049250313e-16,
+        "inverse_leakage_reconstruction_error": 1.3877787807814457e-17,
+        "exact_phase_match_mismatch_rad_per_um": 0.0,
+        "matched_apodized_overlap": 1.0000000000000002,
+        "overlap_bounds_passed": true,
+        "monotone_guided_power_passed": true
+      }
+    },
+    {
+      "updates": {
+        "reference_amplitude_leakage_per_um": 0.04
+      },
+      "checks": {
+        "uniform_power_conservation_error": 1.1102230246251565e-16,
+        "apodized_power_conservation_error": 0.0,
+        "equal_total_extraction_error": 0.0,
+        "inverse_leakage_reconstruction_error": 6.938893903907228e-18,
+        "exact_phase_match_mismatch_rad_per_um": 0.0,
+        "matched_apodized_overlap": 0.9999999999999997,
+        "overlap_bounds_passed": true,
+        "monotone_guided_power_passed": true
+      }
+    },
+    {
+      "updates": {
+        "gaussian_amplitude_waist_um": 1.5,
+        "gaussian_center_fraction": 0.65
+      },
+      "checks": {
+        "uniform_power_conservation_error": 0.0,
+        "apodized_power_conservation_error": 0.0,
+        "equal_total_extraction_error": 0.0,
+        "inverse_leakage_reconstruction_error": 1.3877787807814457e-17,
+        "exact_phase_match_mismatch_rad_per_um": 0.0,
+        "matched_apodized_overlap": 1.0000000000000002,
+        "overlap_bounds_passed": true,
+        "monotone_guided_power_passed": true
+      }
+    }
+  ],
+  "render_checks": {
+    "overview": "inspected PNG, readable labels and no clipping",
+    "leakage": "inspected PNG, readable labels and no clipping"
+  },
+  "files_sha256": {
+    "GC-README.txt": "92733ba024b3a2beda414318206e2c4a159d2d85d6ffa6a3f6e2784ee0d7c507",
+    "gc_parameters.json": "ca67ae09df9c4ebf3a902785df98ce9de94c42e36c18b879d81f5bff73cfa2e0",
+    "gc_toy.py": "3283440657966b39aee4fe448ca6655ae34023372fa5e90b66e984c96ba8b450",
+    "gc_toy_output/gc_angles.csv": "2da0c6960bd1266658dbad20a712307d11b3b15f66c1553e7633b32835b70740",
+    "gc_toy_output/gc_cells.csv": "8791091b53e92fb4dd22a97f17e2ae5c1de5929e7b5fa5292c76bccfc39715c5",
+    "gc_toy_output/gc_parameters_used.json": "ca67ae09df9c4ebf3a902785df98ce9de94c42e36c18b879d81f5bff73cfa2e0",
+    "gc_toy_output/gc_spectrum.csv": "30def2b6a6f3af5c4a0e77f871fd3be417906eff5891c28f07e3888f405cb8f2",
+    "gc_toy_output/gc_toy_leakage.pdf": "f1af19ac2b0433d632a606a8eb9c56fab219d3c48fdc880a50615fb56b341b24",
+    "gc_toy_output/gc_toy_leakage.png": "5b616467bd0e85b1624b158d83241d516f05c49d3c61a6e8b613ae4740082484",
+    "gc_toy_output/gc_toy_overview.pdf": "40d4bdb4d4a931214ce8587187ce81101ddac310471231880eea21eea5ee5c13",
+    "gc_toy_output/gc_toy_overview.png": "ac8a9a55a5aa4d89f3a8e43dce8a30893789710acabf50664203f93d4a94ddd4",
+    "gc_toy_output/gc_toy_summary.json": "6072c2d9327f8245c88f3949a945ee183fbb6023acf33fc00e463540c497ad04",
+    "requirements-toys.txt": "35cf8c20f7999ec3cdf7cc07f2793446106de0bd71b614b6f04ff148b4d5ba25"
+  }
+}

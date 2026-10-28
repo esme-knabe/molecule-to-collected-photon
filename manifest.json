@@ -1,0 +1,34 @@
+{
+  "edition": "2026-10-28",
+  "author": "Esme Knabe",
+  "scope": "Edited guide and three local analytical models",
+  "documents": [
+    {
+      "path": "docs/Molecule-to-Collected-Photon.pages",
+      "sha256": "66c74ca14102844db1811ba7c2ea2d92f2d465e3fdeb369610d55b630bb8a5cc"
+    },
+    {
+      "path": "docs/Molecule-to-Collected-Photon.pdf",
+      "sha256": "5b7fde7f8c3bac64c1beb369c03296753c0d114094462677bb8634a0e92a7185"
+    }
+  ],
+  "model_sources": [
+    {
+      "path": "kit/bus_coupler_toy.py",
+      "sha256": "eb8b0805e11b7eb83a92fdbf6a64c745600ca873fb955bdcfff87da761aad845"
+    },
+    {
+      "path": "kit/gc_toy.py",
+      "sha256": "3283440657966b39aee4fe448ca6655ae34023372fa5e90b66e984c96ba8b450"
+    },
+    {
+      "path": "kit/qed_toy.py",
+      "sha256": "3553211ecdb34c81798c2d895fc9356d244feda6252f99aeccd2dae024361243"
+    }
+  ],
+  "publication_changes": [
+    "Figure paths in the saved QED summary are repository-relative.",
+    "A machine-specific interpreter path was removed from the QED README."
+  ],
+  "model_code_changed": false
+}

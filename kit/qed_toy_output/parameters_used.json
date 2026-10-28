@@ -1,0 +1,25 @@
+{
+  "model_revision": "qed-toy-r001",
+  "status": "illustrative analytical parameters; not fitted to a device or molecule",
+  "wavelength_nm": 595.0,
+  "lifetime_ns": 5.0,
+  "g_bright_over_2pi_MHz": 100.0,
+  "kappa_intrinsic_over_2pi_MHz": 100.0,
+  "kappa_external_over_2pi_MHz": 500.0,
+  "gamma_phi_over_2pi_MHz": 30.0,
+  "detuning_over_2pi_MHz": 0.0,
+  "reference_quantum_yield": 0.8,
+  "zpl_fraction_of_radiative_decay": 0.3,
+  "evanescent_field_amplitude_length_nm": 100.0,
+  "eta_propagation": 0.9,
+  "eta_grating_to_selected_mode": 0.35,
+  "eta_detector": 0.7,
+  "strong_scenario": {
+    "g_bright_over_2pi_MHz": 1000.0,
+    "kappa_intrinsic_over_2pi_MHz": 30.0,
+    "kappa_external_over_2pi_MHz": 70.0,
+    "gamma_phi_over_2pi_MHz": 1.0
+  },
+  "random_seed": 5952026,
+  "random_check_cases": 40
+}

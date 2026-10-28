@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="734.4pt" height="266.4pt" viewBox="0 0 734.4 266.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T12:32:24.460875</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.4 
+L 734.4 266.4 
+L 734.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 33.951803 233.510698 
+L 361.203781 233.510698 
+L 361.203781 15.636334 
+L 33.951803 15.636334 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m776a4d6745" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m776a4d6745" x="48.826892" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="48.826892" y="247.884135" transform="rotate(-0 48.826892 247.884135)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m776a4d6745" x="86.014617" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="86.014617" y="247.884135" transform="rotate(-0 86.014617 247.884135)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m776a4d6745" x="123.202342" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="123.202342" y="247.884135" transform="rotate(-0 123.202342 247.884135)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m776a4d6745" x="160.390067" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="160.390067" y="247.884135" transform="rotate(-0 160.390067 247.884135)">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m776a4d6745" x="197.577792" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="197.577792" y="247.884135" transform="rotate(-0 197.577792 247.884135)">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m776a4d6745" x="234.765517" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="234.765517" y="247.884135" transform="rotate(-0 234.765517 247.884135)">25</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m776a4d6745" x="271.953242" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="271.953242" y="247.884135" transform="rotate(-0 271.953242 247.884135)">30</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m776a4d6745" x="309.140966" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="309.140966" y="247.884135" transform="rotate(-0 309.140966 247.884135)">35</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m776a4d6745" x="346.328691" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="346.328691" y="247.884135" transform="rotate(-0 346.328691 247.884135)">40</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="197.577792" y="261.309135" transform="rotate(-0 197.577792 261.309135)">Interaction length (um)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <defs>
+       <path id="m888c4568d4" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m888c4568d4" x="33.951803" y="223.607317" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: end" x="26.951803" y="227.294036" transform="rotate(-0 26.951803 227.294036)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m888c4568d4" x="33.951803" y="183.574299" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: end" x="26.951803" y="187.261018" transform="rotate(-0 26.951803 187.261018)">2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m888c4568d4" x="33.951803" y="143.541281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: end" x="26.951803" y="147.228" transform="rotate(-0 26.951803 147.228)">4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m888c4568d4" x="33.951803" y="103.508263" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: end" x="26.951803" y="107.194981" transform="rotate(-0 26.951803 107.194981)">6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m888c4568d4" x="33.951803" y="63.475244" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: end" x="26.951803" y="67.161963" transform="rotate(-0 26.951803 67.161963)">8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m888c4568d4" x="33.951803" y="23.442226" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: end" x="26.951803" y="27.128945" transform="rotate(-0 26.951803 27.128945)">10</text>
+     </g>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="10.373678" y="124.573516" transform="rotate(-90 10.373678 124.573516)">Power transferred per pass (%)</text>
+    </g>
+   </g>
+   <g id="line2d_16">
+    <path d="M 48.826892 223.607317 
+L 55.520683 223.503554 
+L 62.214473 223.192284 
+L 68.908264 222.673572 
+L 75.602054 221.947527 
+L 82.295845 221.014298 
+L 88.989635 219.87408 
+L 95.683426 218.527107 
+L 102.377216 216.973661 
+L 109.814761 215.005842 
+L 117.252306 212.784019 
+L 124.689851 210.30876 
+L 132.127396 207.580701 
+L 139.564941 204.600538 
+L 147.002486 201.369034 
+L 154.440031 197.887018 
+L 161.877576 194.155381 
+L 169.315121 190.175077 
+L 176.752666 185.947125 
+L 184.190211 181.472609 
+L 191.627756 176.752673 
+L 199.065301 171.788525 
+L 207.2466 166.047418 
+L 215.4279 160.014131 
+L 223.609199 153.690536 
+L 231.790499 147.078589 
+L 239.971798 140.18034 
+L 248.153098 132.997925 
+L 256.334397 125.533569 
+L 264.515697 117.789583 
+L 273.440751 109.025504 
+L 282.365805 99.934729 
+L 291.290859 90.520612 
+L 300.215912 80.78662 
+L 309.140966 70.736344 
+L 318.809775 59.495925 
+L 328.478583 47.893524 
+L 338.147392 35.934159 
+L 346.328691 25.539714 
+L 346.328691 25.539714 
+" clip-path="url(#p8c4def0f79)" style="fill: none; stroke: #4a1f7a; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 48.826892 223.607317 
+L 55.520683 223.503558 
+L 62.214473 223.192354 
+L 68.908264 222.673927 
+L 75.602054 221.948647 
+L 82.295845 221.017032 
+L 88.989635 219.879747 
+L 95.683426 218.537602 
+L 103.120971 216.807234 
+L 110.558516 214.826663 
+L 117.996061 212.597635 
+L 125.433606 210.122114 
+L 132.871151 207.402279 
+L 140.308696 204.440528 
+L 147.746241 201.239469 
+L 155.183786 197.801922 
+L 162.621331 194.130915 
+L 170.058875 190.229683 
+L 178.240175 185.676524 
+L 186.421474 180.853808 
+L 194.602774 175.766676 
+L 202.784073 170.42055 
+L 210.965373 164.821128 
+L 219.890427 158.430806 
+L 228.815481 151.754255 
+L 237.740535 144.799944 
+L 246.665589 137.576697 
+L 256.334397 129.458658 
+L 266.003206 121.047835 
+L 276.415769 111.676965 
+L 286.828332 101.997242 
+L 297.240894 92.025378 
+L 308.397212 81.036621 
+L 320.297284 68.991974 
+L 332.94111 55.858646 
+L 346.328691 41.612031 
+L 346.328691 41.612031 
+" clip-path="url(#p8c4def0f79)" style="fill: none; stroke: #b2182b; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 48.826892 223.607317 
+L 55.520683 223.503571 
+L 62.214473 223.192564 
+L 68.908264 222.67499 
+L 75.602054 221.952004 
+L 82.295845 221.02522 
+L 89.73339 219.758969 
+L 97.170935 218.247169 
+L 104.60848 216.493986 
+L 112.046025 214.50425 
+L 119.48357 212.283444 
+L 126.921115 209.837687 
+L 134.35866 207.173718 
+L 142.539959 204.000095 
+L 150.721259 200.58191 
+L 158.902558 196.930558 
+L 167.827612 192.695663 
+L 176.752666 188.214583 
+L 186.421474 183.102906 
+L 196.090283 177.746983 
+L 206.502846 171.734538 
+L 218.402918 164.593445 
+L 231.046744 156.744906 
+L 246.665589 146.769724 
+L 268.234469 132.698296 
+L 300.215912 111.843126 
+L 315.834757 101.940395 
+L 328.478583 94.173677 
+L 340.378655 87.127911 
+L 346.328691 83.717064 
+L 346.328691 83.717064 
+" clip-path="url(#p8c4def0f79)" style="fill: none; stroke: #007a50; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 33.951803 233.510698 
+L 33.951803 15.636334 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 33.951803 233.510698 
+L 361.203781 233.510698 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_19">
+     <path d="M 41.151803 26.836334 
+L 49.151803 26.836334 
+L 57.151803 26.836334 
+" style="fill: none; stroke: #4a1f7a; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_18">
+     <!-- $\Delta\beta=0\ \mu\mathrm{m}^{-1}$ -->
+     <g transform="translate(63.551803 29.636334)">
+      <text>
+       <tspan x="0" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">¢</tspan>
+       <tspan x="12.588281" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">=</tspan>
+       <tspan x="20.207812" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">0</tspan>
+       <tspan x="31.365341" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">m</tspan>
+       <tspan x="6.664062" y="-0.209188" style="font-size: 8px; font-family: 'cmmi10'">¯</tspan>
+       <tspan x="26.548935" y="-0.209188" style="font-size: 8px; font-family: 'cmmi10'">¹</tspan>
+       <tspan x="38.386535" y="-3.270313" style="font-size: 5.6px; font-family: 'cmsy10'">¡</tspan>
+       <tspan x="42.736926" y="-3.270313" style="font-size: 5.6px; font-family: 'cmr10'">1</tspan>
+      </text>
+     </g>
+    </g>
+    <g id="line2d_20">
+     <path d="M 41.151803 39.396334 
+L 49.151803 39.396334 
+L 57.151803 39.396334 
+" style="fill: none; stroke: #b2182b; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_19">
+     <!-- $\Delta\beta=0.025\ \mu\mathrm{m}^{-1}$ -->
+     <g transform="translate(63.551803 42.196334)">
+      <text>
+       <tspan x="0" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">¢</tspan>
+       <tspan x="12.588281" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">=</tspan>
+       <tspan x="20.207812" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">0</tspan>
+       <tspan x="26.422656" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">0</tspan>
+       <tspan x="30.422656" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">2</tspan>
+       <tspan x="34.422656" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">5</tspan>
+       <tspan x="45.580185" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">m</tspan>
+       <tspan x="6.664062" y="-0.209188" style="font-size: 8px; font-family: 'cmmi10'">¯</tspan>
+       <tspan x="24.207812" y="-0.209188" style="font-size: 8px; font-family: 'cmmi10'">:</tspan>
+       <tspan x="40.763779" y="-0.209188" style="font-size: 8px; font-family: 'cmmi10'">¹</tspan>
+       <tspan x="52.601379" y="-3.270313" style="font-size: 5.6px; font-family: 'cmsy10'">¡</tspan>
+       <tspan x="56.951769" y="-3.270313" style="font-size: 5.6px; font-family: 'cmr10'">1</tspan>
+      </text>
+     </g>
+    </g>
+    <g id="line2d_21">
+     <path d="M 41.151803 51.956334 
+L 49.151803 51.956334 
+L 57.151803 51.956334 
+" style="fill: none; stroke: #007a50; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_20">
+     <!-- $\Delta\beta=0.05\ \mu\mathrm{m}^{-1}$ -->
+     <g transform="translate(63.551803 54.756334)">
+      <text>
+       <tspan x="0" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">¢</tspan>
+       <tspan x="12.588281" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">=</tspan>
+       <tspan x="20.207812" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">0</tspan>
+       <tspan x="26.422656" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">0</tspan>
+       <tspan x="30.422656" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">5</tspan>
+       <tspan x="41.580185" y="-0.209188" style="font-size: 8px; font-family: 'cmr10'">m</tspan>
+       <tspan x="6.664062" y="-0.209188" style="font-size: 8px; font-family: 'cmmi10'">¯</tspan>
+       <tspan x="24.207812" y="-0.209188" style="font-size: 8px; font-family: 'cmmi10'">:</tspan>
+       <tspan x="36.763779" y="-0.209188" style="font-size: 8px; font-family: 'cmmi10'">¹</tspan>
+       <tspan x="48.601379" y="-3.270313" style="font-size: 5.6px; font-family: 'cmsy10'">¡</tspan>
+       <tspan x="52.951769" y="-3.270313" style="font-size: 5.6px; font-family: 'cmr10'">1</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 404.147781 233.510698 
+L 731.39976 233.510698 
+L 731.39976 15.636334 
+L 404.147781 15.636334 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_10">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m776a4d6745" x="442.509855" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="442.509855" y="247.884135" transform="rotate(-0 442.509855 247.884135)">150</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m776a4d6745" x="481.654829" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="481.654829" y="247.884135" transform="rotate(-0 481.654829 247.884135)">200</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m776a4d6745" x="520.799802" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="520.799802" y="247.884135" transform="rotate(-0 520.799802 247.884135)">250</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m776a4d6745" x="559.944776" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="559.944776" y="247.884135" transform="rotate(-0 559.944776 247.884135)">300</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m776a4d6745" x="599.089749" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="599.089749" y="247.884135" transform="rotate(-0 599.089749 247.884135)">350</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m776a4d6745" x="638.234723" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="638.234723" y="247.884135" transform="rotate(-0 638.234723 247.884135)">400</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m776a4d6745" x="677.379697" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="677.379697" y="247.884135" transform="rotate(-0 677.379697 247.884135)">450</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m776a4d6745" x="716.52467" y="233.510698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="716.52467" y="247.884135" transform="rotate(-0 716.52467 247.884135)">500</text>
+     </g>
+    </g>
+    <g id="text_29">
+     <text style="font-size: 10px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="567.773771" y="261.270073" transform="rotate(-0 567.773771 261.270073)">Gap (nm)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m888c4568d4" x="404.147781" y="231.790605" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- $\mathdefault{10^{0}}$ -->
+      <g transform="translate(382.547781 235.477324)">
+       <text>
+        <tspan x="0" y="-0.239063" style="font-size: 10px; font-family: 'Trebuchet MS'">1</tspan>
+        <tspan x="5.244141" y="-0.239063" style="font-size: 10px; font-family: 'Trebuchet MS'">0</tspan>
+        <tspan x="10.579883" y="-3.903125" style="font-size: 7px; font-family: 'Trebuchet MS'">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m888c4568d4" x="404.147781" y="171.792159" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- $\mathdefault{10^{1}}$ -->
+      <g transform="translate(382.547781 175.478878)">
+       <text>
+        <tspan x="0" y="-0.304688" style="font-size: 10px; font-family: 'Trebuchet MS'">1</tspan>
+        <tspan x="5.244141" y="-0.304688" style="font-size: 10px; font-family: 'Trebuchet MS'">0</tspan>
+        <tspan x="10.579883" y="-3.96875" style="font-size: 7px; font-family: 'Trebuchet MS'">1</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m888c4568d4" x="404.147781" y="111.793713" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- $\mathdefault{10^{2}}$ -->
+      <g transform="translate(382.547781 115.480432)">
+       <text>
+        <tspan x="0" y="-0.239063" style="font-size: 10px; font-family: 'Trebuchet MS'">1</tspan>
+        <tspan x="5.244141" y="-0.239063" style="font-size: 10px; font-family: 'Trebuchet MS'">0</tspan>
+        <tspan x="10.579883" y="-3.903125" style="font-size: 7px; font-family: 'Trebuchet MS'">2</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m888c4568d4" x="404.147781" y="51.795267" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <!-- $\mathdefault{10^{3}}$ -->
+      <g transform="translate(382.547781 55.481986)">
+       <text>
+        <tspan x="0" y="-0.239063" style="font-size: 10px; font-family: 'Trebuchet MS'">1</tspan>
+        <tspan x="5.244141" y="-0.239063" style="font-size: 10px; font-family: 'Trebuchet MS'">0</tspan>
+        <tspan x="10.579883" y="-3.903125" style="font-size: 7px; font-family: 'Trebuchet MS'">3</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_34">
+      <defs>
+       <path id="m2e3700ff20" d="M 0 0 
+L -2 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="213.729273" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="203.164071" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="195.667941" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="189.853491" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="185.102739" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="181.086036" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="177.606609" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="174.537538" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="153.730827" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="143.165625" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="135.669495" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_45">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="129.855045" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="125.104294" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="121.08759" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="117.608164" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_49">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="114.539092" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="93.732381" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_51">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="83.16718" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="75.67105" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_53">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="69.856599" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="65.105848" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_55">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="61.089144" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="57.609718" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_57">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="54.540646" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="33.733936" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="line2d_59">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="23.168734" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="line2d_60">
+      <g>
+       <use xlink:href="#m2e3700ff20" x="404.147781" y="15.672604" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_34">
+     <!-- External energy decay $\kappa_{\rm ex}/2\pi$ (MHz) -->
+     <g transform="translate(376.047781 204.773516) rotate(-90)">
+      <text>
+       <tspan x="0" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">E</tspan>
+       <tspan x="5.356445" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">x</tspan>
+       <tspan x="10.366211" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">t</tspan>
+       <tspan x="14.331055" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="19.785156" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">r</tspan>
+       <tspan x="23.671875" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">n</tspan>
+       <tspan x="29.135742" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">a</tspan>
+       <tspan x="34.389648" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">l</tspan>
+       <tspan x="37.338867" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="40.351562" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="45.805664" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">n</tspan>
+       <tspan x="51.269531" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="56.723633" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">r</tspan>
+       <tspan x="60.610352" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">g</tspan>
+       <tspan x="65.629883" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">y</tspan>
+       <tspan x="70.561523" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="73.574219" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">d</tspan>
+       <tspan x="79.145508" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="84.599609" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">c</tspan>
+       <tspan x="89.550781" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">a</tspan>
+       <tspan x="94.804688" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">y</tspan>
+       <tspan x="99.736328" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="131.641641" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="134.654336" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">(</tspan>
+       <tspan x="138.326211" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">M</tspan>
+       <tspan x="145.420938" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">H</tspan>
+       <tspan x="151.963906" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">z</tspan>
+       <tspan x="156.71" y="-0.5" style="font-size: 10px; font-family: 'Trebuchet MS'">)</tspan>
+       <tspan x="102.749023" y="-0.5" style="font-size: 10px; font-family: 'cmmi10'">∙</tspan>
+       <tspan x="115.943398" y="-0.5" style="font-size: 10px; font-family: 'cmmi10'">=</tspan>
+       <tspan x="125.943398" y="-0.5" style="font-size: 10px; font-family: 'cmmi10'">¼</tspan>
+       <tspan x="108.510742" y="1.200625" style="font-size: 7px; font-family: 'cmr10'">e</tspan>
+       <tspan x="111.617676" y="1.200625" style="font-size: 7px; font-family: 'cmr10'">x</tspan>
+       <tspan x="120.943398" y="-0.5" style="font-size: 10px; font-family: 'cmr10'">2</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_61">
+    <path d="M 419.022871 25.539714 
+L 611.407368 153.635368 
+L 716.52467 223.607317 
+L 716.52467 223.607317 
+" clip-path="url(#p6e4b0dce2c)" style="fill: none; stroke: #4a1f7a; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_62">
+    <path d="M 481.654829 233.510698 
+L 481.654829 15.636334 
+" clip-path="url(#p6e4b0dce2c)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #666666"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 404.147781 233.510698 
+L 404.147781 15.636334 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 404.147781 233.510698 
+L 731.39976 233.510698 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 9px; font-family: 'Trebuchet MS', 'DejaVu Sans'; text-anchor: middle" x="567.773771" y="9.636334" transform="rotate(-0 567.773771 9.636334)">Assumed overlap length 100 nm; interaction 5 um</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8c4def0f79">
+   <rect x="33.951803" y="15.636334" width="327.251979" height="217.874364"/>
+  </clipPath>
+  <clipPath id="p6e4b0dce2c">
+   <rect x="404.147781" y="15.636334" width="327.251979" height="217.874364"/>
+  </clipPath>
+ </defs>
+</svg>

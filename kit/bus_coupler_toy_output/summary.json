@@ -1,0 +1,29 @@
+{
+  "model": "analytical two-mode lossless directional coupler",
+  "parameters": {
+    "coupling_at_reference_gap_per_um": 0.008,
+    "reference_gap_nm": 200.0,
+    "amplitude_overlap_length_nm": 100.0,
+    "interaction_length_um": 5.0,
+    "ring_radius_um": 10.0,
+    "group_index": 2.2,
+    "propagation_mismatch_per_um": 0.0,
+    "parameter_status": "Illustrative lossless two-guide model; overlap decay is assumed rather than calculated from an LN mode."
+  },
+  "default_power_transfer_K": 0.0015991468486903073,
+  "round_trip_time_ns": 0.00046108590482937003,
+  "default_kappa_ex_over_2pi_MHz": 552.4260042989142,
+  "checks": {
+    "independent_matrix_cases": 27,
+    "max_formula_vs_matrix_error": 2.220446049250313e-16,
+    "lossless_power_conserved": true
+  },
+  "versions": {
+    "python": "3.13.11",
+    "numpy": "2.4.4",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.8"
+  },
+  "caption": "Lossless spatial two-mode toy. Phase mismatch reduces power transfer; an assumed exponential overlap versus gap maps per-pass transfer to an external ring energy-decay rate. No gap dependence is obtained from an electromagnetic geometry.",
+  "source_sha256": "eb8b0805e11b7eb83a92fdbf6a64c745600ca873fb955bdcfff87da761aad845"
+}

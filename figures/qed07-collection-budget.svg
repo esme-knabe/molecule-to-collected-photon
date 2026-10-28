@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="621.176563pt" height="260.623281pt" viewBox="0 0 621.176563 260.623281" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T12:24:35.939408</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 260.623281 
+L 621.176563 260.623281 
+L 621.176563 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 42.726875 222.630781 
+L 303.274494 222.630781 
+L 303.274494 21.310781 
+L 42.726875 21.310781 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 54.569949 222.630781 
+L 95.137383 222.630781 
+L 95.137383 61.678144 
+L 54.569949 61.678144 
+z
+" clip-path="url(#pfd8a5e3920)" style="fill: #4a1f7a"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 120.001294 222.630781 
+L 160.568729 222.630781 
+L 160.568729 77.773407 
+L 120.001294 77.773407 
+z
+" clip-path="url(#pfd8a5e3920)" style="fill: #b2182b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 185.43264 222.630781 
+L 226.000075 222.630781 
+L 226.000075 171.9307 
+L 185.43264 171.9307 
+z
+" clip-path="url(#pfd8a5e3920)" style="fill: #007a50"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 250.863986 222.630781 
+L 291.43142 222.630781 
+L 291.43142 187.140725 
+L 250.863986 187.140725 
+z
+" clip-path="url(#pfd8a5e3920)" style="fill: #0072b2"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mc6708bd52c" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc6708bd52c" x="74.853666" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="74.853666" y="237.004219" transform="rotate(-0 74.853666 237.004219)">Bus</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="140.285012" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'" transform="translate(128.833449 237.004219)">After</text>
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'" transform="translate(113.498293 247.903906)">propagation</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="205.716357" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'" transform="translate(186.410107 237.004219)">Selected</text>
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'" transform="translate(181.131982 247.903906)">fiber mode</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="271.147703" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="271.147703" y="237.004219" transform="rotate(-0 271.147703 237.004219)">Detected</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="m7584c6508b" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7584c6508b" x="42.726875" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="226.3175" transform="rotate(-0 35.726875 226.3175)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m7584c6508b" x="42.726875" y="191.658474" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="195.345192" transform="rotate(-0 35.726875 195.345192)">0.1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m7584c6508b" x="42.726875" y="160.686166" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="164.372885" transform="rotate(-0 35.726875 164.372885)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m7584c6508b" x="42.726875" y="129.713858" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="133.400577" transform="rotate(-0 35.726875 133.400577)">0.3</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m7584c6508b" x="42.726875" y="98.74155" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="102.428269" transform="rotate(-0 35.726875 102.428269)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m7584c6508b" x="42.726875" y="67.769243" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="71.455962" transform="rotate(-0 35.726875 71.455962)">0.5</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m7584c6508b" x="42.726875" y="36.796935" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="40.483654" transform="rotate(-0 35.726875 40.483654)">0.6</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="15.310781" y="121.970781" transform="rotate(-90 15.310781 121.970781)">Probability per initial excitation</text>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 42.726875 222.630781 
+L 42.726875 21.310781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 42.726875 222.630781 
+L 303.274494 222.630781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="74.853666" y="57.961467" transform="rotate(-0 74.853666 57.961467)">0.520</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="140.285012" y="74.056731" transform="rotate(-0 140.285012 74.056731)">0.468</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="205.716357" y="168.214023" transform="rotate(-0 205.716357 168.214023)">0.164</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="271.147703" y="183.424048" transform="rotate(-0 271.147703 183.424048)">0.115</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="173.000685" y="15.310781" transform="rotate(-0 173.000685 15.310781)">(a) Conditional factors multiply</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 320.294494 222.630781 
+L 606.896875 222.630781 
+L 606.896875 21.310781 
+L 320.294494 21.310781 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 320.294494 189.077448 
+L 428.171765 189.077448 
+L 428.171765 121.970781 
+L 320.294494 121.970781 
+z
+" clip-path="url(#pd5c96542ef)" style="fill: #4a1f7a"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 428.171765 189.077448 
+L 457.959283 189.077448 
+L 457.959283 121.970781 
+L 428.171765 121.970781 
+z
+" clip-path="url(#pd5c96542ef)" style="fill: #b2182b"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 457.959283 189.077448 
+L 559.981534 189.077448 
+L 559.981534 121.970781 
+L 457.959283 121.970781 
+z
+" clip-path="url(#pd5c96542ef)" style="fill: #007a50"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 559.981534 189.077448 
+L 574.056136 189.077448 
+L 574.056136 121.970781 
+L 559.981534 121.970781 
+z
+" clip-path="url(#pd5c96542ef)" style="fill: #c83e8c"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 574.056136 189.077448 
+L 606.896875 189.077448 
+L 606.896875 121.970781 
+L 574.056136 121.970781 
+z
+" clip-path="url(#pd5c96542ef)" style="fill: #0072b2"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_5">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="320.294494" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="320.294494" y="237.004219" transform="rotate(-0 320.294494 237.004219)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="377.61497" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="377.61497" y="237.004219" transform="rotate(-0 377.61497 237.004219)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="434.935446" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="434.935446" y="237.004219" transform="rotate(-0 434.935446 237.004219)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="492.255923" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="492.255923" y="237.004219" transform="rotate(-0 492.255923 237.004219)">0.6</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="549.576399" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="549.576399" y="237.004219" transform="rotate(-0 549.576399 237.004219)">0.8</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mc6708bd52c" x="606.896875" y="222.630781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="606.896875" y="237.004219" transform="rotate(-0 606.896875 237.004219)">1.0</text>
+     </g>
+    </g>
+    <g id="text_24">
+     <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="463.595685" y="251.166562" transform="rotate(-0 463.595685 251.166562)">Probability per initial excitation</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="patch_15">
+    <path d="M 320.294494 222.630781 
+L 320.294494 21.310781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 320.294494 222.630781 
+L 606.896875 222.630781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="463.595685" y="15.310781" transform="rotate(-0 463.595685 15.310781)">(b) Mutually exclusive final channels</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_17">
+     <path d="M 387.997091 40.073275 
+L 405.997091 40.073275 
+L 405.997091 33.773275 
+L 387.997091 33.773275 
+z
+" style="fill: #4a1f7a"/>
+    </g>
+    <g id="text_26">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="413.197091" y="40.073275" transform="rotate(-0 413.197091 40.073275)">Other emitter decay: 0.376</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 387.997091 53.055775 
+L 405.997091 53.055775 
+L 405.997091 46.755775 
+L 387.997091 46.755775 
+z
+" style="fill: #b2182b"/>
+    </g>
+    <g id="text_27">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="413.197091" y="53.055775" transform="rotate(-0 413.197091 53.055775)">Intrinsic cavity loss: 0.104</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 387.997091 66.038275 
+L 405.997091 66.038275 
+L 405.997091 59.738275 
+L 387.997091 59.738275 
+z
+" style="fill: #007a50"/>
+    </g>
+    <g id="text_28">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="413.197091" y="66.038275" transform="rotate(-0 413.197091 66.038275)">Downstream optical loss: 0.356</text>
+    </g>
+    <g id="patch_20">
+     <path d="M 387.997091 79.020775 
+L 405.997091 79.020775 
+L 405.997091 72.720775 
+L 387.997091 72.720775 
+z
+" style="fill: #c83e8c"/>
+    </g>
+    <g id="text_29">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="413.197091" y="79.020775" transform="rotate(-0 413.197091 79.020775)">Detector miss: 0.049</text>
+    </g>
+    <g id="patch_21">
+     <path d="M 387.997091 92.003275 
+L 405.997091 92.003275 
+L 405.997091 85.703275 
+L 387.997091 85.703275 
+z
+" style="fill: #0072b2"/>
+    </g>
+    <g id="text_30">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="413.197091" y="92.003275" transform="rotate(-0 413.197091 92.003275)">Detected: 0.115</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfd8a5e3920">
+   <rect x="42.726875" y="21.310781" width="260.547619" height="201.32"/>
+  </clipPath>
+  <clipPath id="pd5c96542ef">
+   <rect x="320.294494" y="21.310781" width="286.602381" height="201.32"/>
+  </clipPath>
+ </defs>
+</svg>

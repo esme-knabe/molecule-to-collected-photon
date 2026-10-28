@@ -1,0 +1,10 @@
+{
+  "coupling_at_reference_gap_per_um": 0.008,
+  "reference_gap_nm": 200.0,
+  "amplitude_overlap_length_nm": 100.0,
+  "interaction_length_um": 5.0,
+  "ring_radius_um": 10.0,
+  "group_index": 2.2,
+  "propagation_mismatch_per_um": 0.0,
+  "parameter_status": "Illustrative lossless two-guide model; overlap decay is assumed rather than calculated from an LN mode."
+}

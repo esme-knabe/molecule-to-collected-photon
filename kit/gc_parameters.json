@@ -1,0 +1,21 @@
+{
+  "target_wavelength_um": 0.595,
+  "pitch_um": 0.35,
+  "periods": 18,
+  "duty_cycle": 0.5,
+  "effective_index_at_target": 2.05,
+  "group_index_at_target": 2.2,
+  "collection_medium_index": 1.0,
+  "reference_amplitude_leakage_per_um": 0.1,
+  "reference_duty_cycle": 0.5,
+  "target_angle_deg": null,
+  "gaussian_amplitude_waist_um": 2.5,
+  "gaussian_center_fraction": 0.5,
+  "wavelength_min_um": 0.565,
+  "wavelength_max_um": 0.625,
+  "wavelength_samples": 241,
+  "angle_min_deg": -80.0,
+  "angle_max_deg": 80.0,
+  "angle_samples": 2001,
+  "parameter_status": "Illustrative analytical inputs, not a measured or simulated lithium-niobate stack."
+}

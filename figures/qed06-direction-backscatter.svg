@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="621.116875pt" height="256.935781pt" viewBox="0 0 621.116875 256.935781" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T12:24:35.649956</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 256.935781 
+L 621.116875 256.935781 
+L 621.116875 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 42.726875 218.310781 
+L 305.716875 218.310781 
+L 305.716875 21.310781 
+L 42.726875 21.310781 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m3410e8d710" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3410e8d710" x="54.680966" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="54.680966" y="232.684219" transform="rotate(-0 54.680966 232.684219)">−1.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m3410e8d710" x="114.45142" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="114.45142" y="232.684219" transform="rotate(-0 114.45142 232.684219)">−0.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m3410e8d710" x="174.221875" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="174.221875" y="232.684219" transform="rotate(-0 174.221875 232.684219)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m3410e8d710" x="233.99233" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="233.99233" y="232.684219" transform="rotate(-0 233.99233 232.684219)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m3410e8d710" x="293.762784" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="293.762784" y="232.684219" transform="rotate(-0 293.762784 232.684219)">1.0</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <!-- Assumed coupling asymmetry $D$ -->
+     <g transform="translate(95.626875 246.875781)">
+      <text>
+       <tspan x="0" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">A</tspan>
+       <tspan x="6.488281" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">s</tspan>
+       <tspan x="10.940918" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">s</tspan>
+       <tspan x="15.393555" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">u</tspan>
+       <tspan x="21.403809" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">m</tspan>
+       <tspan x="30.534668" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="36.53418" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">d</tspan>
+       <tspan x="42.662598" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="45.976562" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">c</tspan>
+       <tspan x="51.422852" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">o</tspan>
+       <tspan x="57.325684" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">u</tspan>
+       <tspan x="63.335938" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">p</tspan>
+       <tspan x="69.464355" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">l</tspan>
+       <tspan x="72.708496" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">i</tspan>
+       <tspan x="75.845215" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">n</tspan>
+       <tspan x="81.855469" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">g</tspan>
+       <tspan x="87.376953" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="90.690918" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">a</tspan>
+       <tspan x="96.470215" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">s</tspan>
+       <tspan x="100.922852" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">y</tspan>
+       <tspan x="106.347656" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">m</tspan>
+       <tspan x="115.478516" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">m</tspan>
+       <tspan x="124.609375" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="130.608887" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">t</tspan>
+       <tspan x="134.970215" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">r</tspan>
+       <tspan x="139.245605" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">y</tspan>
+       <tspan x="144.67041" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="147.984375" y="-0.890625" style="font-size: 11px; font-family: 'cmmi10'">D</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="m248f60982d" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="221.9975" transform="rotate(-0 35.726875 221.9975)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="193.685781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="197.3725" transform="rotate(-0 35.726875 197.3725)">0.1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="169.060781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="172.7475" transform="rotate(-0 35.726875 172.7475)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="144.435781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="148.1225" transform="rotate(-0 35.726875 148.1225)">0.3</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="119.810781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="123.4975" transform="rotate(-0 35.726875 123.4975)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="95.185781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="98.8725" transform="rotate(-0 35.726875 98.8725)">0.5</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="70.560781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="74.2475" transform="rotate(-0 35.726875 74.2475)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="45.935781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="49.6225" transform="rotate(-0 35.726875 49.6225)">0.7</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m248f60982d" x="42.726875" y="21.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="24.9975" transform="rotate(-0 35.726875 24.9975)">0.8</text>
+     </g>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="15.310781" y="119.810781" transform="rotate(-90 15.310781 119.810781)">Probability per initial excitation</text>
+    </g>
+   </g>
+   <g id="line2d_15">
+    <path d="M 54.680966 218.310781 
+L 293.762784 90.342961 
+L 293.762784 90.342961 
+" clip-path="url(#p1506b08fe9)" style="fill: none; stroke: #4a1f7a; stroke-width: 2.2; stroke-linecap: square"/>
+    <defs>
+     <path id="mf42714a7cc" d="M 0 1.6 
+C 0.424325 1.6 0.831328 1.431414 1.131371 1.131371 
+C 1.431414 0.831328 1.6 0.424325 1.6 0 
+C 1.6 -0.424325 1.431414 -0.831328 1.131371 -1.131371 
+C 0.831328 -1.431414 0.424325 -1.6 0 -1.6 
+C -0.424325 -1.6 -0.831328 -1.431414 -1.131371 -1.131371 
+C -1.431414 -0.831328 -1.6 -0.424325 -1.6 0 
+C -1.6 0.424325 -1.431414 0.831328 -1.131371 1.131371 
+C -0.831328 1.431414 -0.424325 1.6 0 1.6 
+z
+" style="stroke: #4a1f7a"/>
+    </defs>
+    <g clip-path="url(#p1506b08fe9)">
+     <use xlink:href="#mf42714a7cc" x="54.680966" y="218.310781" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="74.106364" y="207.913396" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="93.531761" y="197.51601" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="112.957159" y="187.118625" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="132.382557" y="176.72124" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="151.807955" y="166.323854" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="171.233352" y="155.926469" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="190.65875" y="145.529084" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="210.084148" y="135.131698" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="229.509545" y="124.734313" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="248.934943" y="114.336927" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="268.360341" y="103.939542" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="287.785739" y="93.542157" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+    </g>
+   </g>
+   <g id="line2d_16">
+    <path d="M 54.680966 90.342961 
+L 293.762784 218.310781 
+L 293.762784 218.310781 
+" clip-path="url(#p1506b08fe9)" style="fill: none; stroke: #b2182b; stroke-width: 2.2; stroke-linecap: square"/>
+    <defs>
+     <path id="mf4d3596cf9" d="M 0 1.6 
+C 0.424325 1.6 0.831328 1.431414 1.131371 1.131371 
+C 1.431414 0.831328 1.6 0.424325 1.6 0 
+C 1.6 -0.424325 1.431414 -0.831328 1.131371 -1.131371 
+C 0.831328 -1.431414 0.424325 -1.6 0 -1.6 
+C -0.424325 -1.6 -0.831328 -1.431414 -1.131371 -1.131371 
+C -1.431414 -0.831328 -1.6 -0.424325 -1.6 0 
+C -1.6 0.424325 -1.431414 0.831328 -1.131371 1.131371 
+C -0.831328 1.431414 -0.424325 1.6 0 1.6 
+z
+" style="stroke: #b2182b"/>
+    </defs>
+    <g clip-path="url(#p1506b08fe9)">
+     <use xlink:href="#mf4d3596cf9" x="54.680966" y="90.342961" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="74.106364" y="100.740346" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="93.531761" y="111.137732" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="112.957159" y="121.535117" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="132.382557" y="131.932503" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="151.807955" y="142.329888" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="171.233352" y="152.727273" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="190.65875" y="163.124659" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="210.084148" y="173.522044" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="229.509545" y="183.91943" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="248.934943" y="194.316815" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="268.360341" y="204.7142" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="287.785739" y="215.111586" style="fill: #b2182b; stroke: #b2182b"/>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 54.680966 90.342961 
+L 293.762784 90.342961 
+L 293.762784 90.342961 
+" clip-path="url(#p1506b08fe9)" style="fill: none; stroke: #007a50; stroke-width: 2.2; stroke-linecap: square"/>
+    <defs>
+     <path id="m1cc3353fb0" d="M 0 1.6 
+C 0.424325 1.6 0.831328 1.431414 1.131371 1.131371 
+C 1.431414 0.831328 1.6 0.424325 1.6 0 
+C 1.6 -0.424325 1.431414 -0.831328 1.131371 -1.131371 
+C 0.831328 -1.431414 0.424325 -1.6 0 -1.6 
+C -0.424325 -1.6 -0.831328 -1.431414 -1.131371 -1.131371 
+C -1.431414 -0.831328 -1.6 -0.424325 -1.6 0 
+C -1.6 0.424325 -1.431414 0.831328 -1.131371 1.131371 
+C -0.831328 1.431414 -0.424325 1.6 0 1.6 
+z
+" style="stroke: #007a50"/>
+    </defs>
+    <g clip-path="url(#p1506b08fe9)">
+     <use xlink:href="#m1cc3353fb0" x="54.680966" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="74.106364" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="93.531761" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="112.957159" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="132.382557" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="151.807955" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="171.233352" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="190.65875" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="210.084148" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="229.509545" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="248.934943" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="268.360341" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="287.785739" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 42.726875 218.310781 
+L 42.726875 21.310781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 42.726875 218.310781 
+L 305.716875 218.310781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="174.221875" y="15.310781" transform="rotate(-0 174.221875 15.310781)">(a) J=0; total coupling fixed</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_5">
+     <path d="M 193.237969 67.458281 
+L 299.416875 67.458281 
+Q 301.216875 67.458281 301.216875 65.658281 
+L 301.216875 27.610781 
+Q 301.216875 25.810781 299.416875 25.810781 
+L 193.237969 25.810781 
+Q 191.437969 25.810781 191.437969 27.610781 
+L 191.437969 65.658281 
+Q 191.437969 67.458281 193.237969 67.458281 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_18">
+     <path d="M 195.037969 32.896875 
+L 204.037969 32.896875 
+L 213.037969 32.896875 
+" style="fill: none; stroke: #4a1f7a; stroke-width: 2.2; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#mf42714a7cc" x="204.037969" y="32.896875" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     </g>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="220.237969" y="36.046875" transform="rotate(-0 220.237969 36.046875)">Forward bus</text>
+    </g>
+    <g id="line2d_19">
+     <path d="M 195.037969 45.879375 
+L 204.037969 45.879375 
+L 213.037969 45.879375 
+" style="fill: none; stroke: #b2182b; stroke-width: 2.2; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#mf4d3596cf9" x="204.037969" y="45.879375" style="fill: #b2182b; stroke: #b2182b"/>
+     </g>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="220.237969" y="49.029375" transform="rotate(-0 220.237969 49.029375)">Backward bus</text>
+    </g>
+    <g id="line2d_20">
+     <path d="M 195.037969 58.861875 
+L 204.037969 58.861875 
+L 213.037969 58.861875 
+" style="fill: none; stroke: #007a50; stroke-width: 2.2; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#m1cc3353fb0" x="204.037969" y="58.861875" style="fill: #007a50; stroke: #007a50"/>
+     </g>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="220.237969" y="62.011875" transform="rotate(-0 220.237969 62.011875)">Both bus directions</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_6">
+    <path d="M 350.926875 218.310781 
+L 613.916875 218.310781 
+L 613.916875 21.310781 
+L 350.926875 21.310781 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m3410e8d710" x="362.880966" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="362.880966" y="232.684219" transform="rotate(-0 362.880966 232.684219)">0</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m3410e8d710" x="402.727936" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="402.727936" y="232.684219" transform="rotate(-0 402.727936 232.684219)">100</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m3410e8d710" x="442.574905" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="442.574905" y="232.684219" transform="rotate(-0 442.574905 232.684219)">200</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m3410e8d710" x="482.421875" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="482.421875" y="232.684219" transform="rotate(-0 482.421875 232.684219)">300</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m3410e8d710" x="522.268845" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="522.268845" y="232.684219" transform="rotate(-0 522.268845 232.684219)">400</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m3410e8d710" x="562.115814" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="562.115814" y="232.684219" transform="rotate(-0 562.115814 232.684219)">500</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m3410e8d710" x="601.962784" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="601.962784" y="232.684219" transform="rotate(-0 601.962784 232.684219)">600</text>
+     </g>
+    </g>
+    <g id="text_28">
+     <!-- Backscatter coupling $|J|/(2\pi)$ (MHz) -->
+     <g transform="translate(394.751875 246.985781)">
+      <text>
+       <tspan x="0" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">B</tspan>
+       <tspan x="6.225098" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">a</tspan>
+       <tspan x="12.004395" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">c</tspan>
+       <tspan x="17.450684" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">k</tspan>
+       <tspan x="22.999023" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">s</tspan>
+       <tspan x="27.45166" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">c</tspan>
+       <tspan x="32.897949" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">a</tspan>
+       <tspan x="38.677246" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">t</tspan>
+       <tspan x="43.038574" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">t</tspan>
+       <tspan x="47.399902" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="53.399414" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">r</tspan>
+       <tspan x="57.674805" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="60.98877" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">c</tspan>
+       <tspan x="66.435059" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">o</tspan>
+       <tspan x="72.337891" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">u</tspan>
+       <tspan x="78.348145" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">p</tspan>
+       <tspan x="84.476562" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">l</tspan>
+       <tspan x="87.720703" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">i</tspan>
+       <tspan x="90.857422" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">n</tspan>
+       <tspan x="96.867676" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">g</tspan>
+       <tspan x="102.38916" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="143.698242" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="147.012207" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">(</tspan>
+       <tspan x="151.05127" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">M</tspan>
+       <tspan x="158.855469" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">H</tspan>
+       <tspan x="166.052734" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">z</tspan>
+       <tspan x="171.273438" y="-0.75" style="font-size: 11px; font-family: 'Trebuchet MS'">)</tspan>
+       <tspan x="105.703125" y="-0.75" style="font-size: 11px; font-family: 'cmsy10'">j</tspan>
+       <tspan x="114.844727" y="-0.75" style="font-size: 11px; font-family: 'cmsy10'">j</tspan>
+       <tspan x="108.748535" y="-0.75" style="font-size: 11px; font-family: 'cmmi10'">J</tspan>
+       <tspan x="117.890137" y="-0.75" style="font-size: 11px; font-family: 'cmmi10'">=</tspan>
+       <tspan x="133.160156" y="-0.75" style="font-size: 11px; font-family: 'cmmi10'">¼</tspan>
+       <tspan x="123.390137" y="-0.75" style="font-size: 11px; font-family: 'cmr10'">(</tspan>
+       <tspan x="127.660156" y="-0.75" style="font-size: 11px; font-family: 'cmr10'">2</tspan>
+       <tspan x="139.428223" y="-0.75" style="font-size: 11px; font-family: 'cmr10'">)</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_10">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="218.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="221.9975" transform="rotate(-0 343.926875 221.9975)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="193.685781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="197.3725" transform="rotate(-0 343.926875 197.3725)">0.1</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="169.060781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="172.7475" transform="rotate(-0 343.926875 172.7475)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="144.435781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="148.1225" transform="rotate(-0 343.926875 148.1225)">0.3</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="119.810781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="123.4975" transform="rotate(-0 343.926875 123.4975)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="95.185781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="98.8725" transform="rotate(-0 343.926875 98.8725)">0.5</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="70.560781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="74.2475" transform="rotate(-0 343.926875 74.2475)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="45.935781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="49.6225" transform="rotate(-0 343.926875 49.6225)">0.7</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m248f60982d" x="350.926875" y="21.310781" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="343.926875" y="24.9975" transform="rotate(-0 343.926875 24.9975)">0.8</text>
+     </g>
+    </g>
+    <g id="text_38">
+     <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="323.510781" y="119.810781" transform="rotate(-90 323.510781 119.810781)">Probability per initial excitation</text>
+    </g>
+   </g>
+   <g id="line2d_37">
+    <path d="M 362.880966 90.342961 
+L 366.865663 90.49834 
+L 370.85036 90.962555 
+L 374.835057 91.729892 
+L 378.819754 92.791014 
+L 382.804451 94.133232 
+L 386.789148 95.740858 
+L 390.773845 97.595631 
+L 394.758542 99.677192 
+L 398.743239 101.963589 
+L 404.056168 105.290829 
+L 409.369097 108.885149 
+L 416.010259 113.66846 
+L 423.979653 119.696319 
+L 454.528996 143.122594 
+L 462.49839 148.818598 
+L 470.467784 154.217735 
+L 477.108946 158.468481 
+L 483.750107 162.483341 
+L 490.391269 166.259198 
+L 497.032431 169.797556 
+L 503.673592 173.103456 
+L 510.314754 176.184552 
+L 516.955915 179.050335 
+L 524.925309 182.220199 
+L 532.894703 185.115262 
+L 540.864097 187.755863 
+L 548.833491 190.162205 
+L 556.802885 192.353878 
+L 566.100511 194.664349 
+L 575.398138 196.73569 
+L 584.695764 198.593332 
+L 595.321622 200.484218 
+L 601.962784 201.553447 
+L 601.962784 201.553447 
+" clip-path="url(#p0313cea569)" style="fill: none; stroke: #4a1f7a; stroke-width: 2.2; stroke-linecap: square"/>
+    <g clip-path="url(#p0313cea569)">
+     <use xlink:href="#mf42714a7cc" x="362.880966" y="90.342961" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="382.804451" y="94.133232" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="402.727936" y="104.431778" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="422.65142" y="118.676476" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="442.574905" y="134.133005" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="462.49839" y="148.818598" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="482.421875" y="161.699463" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="502.34536" y="172.460537" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="522.268845" y="181.195107" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="542.19233" y="188.17265" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="562.115814" y="193.704993" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="582.039299" y="198.082992" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#mf42714a7cc" x="601.962784" y="201.553447" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+    </g>
+   </g>
+   <g id="line2d_38">
+    <path d="M 362.880966 218.310781 
+L 366.865663 218.184296 
+L 370.85036 217.806785 
+L 374.835057 217.184018 
+L 378.819754 216.325417 
+L 382.804451 215.243761 
+L 386.789148 213.954814 
+L 390.773845 212.476867 
+L 396.086774 210.247607 
+L 401.399703 207.770663 
+L 408.040865 204.409254 
+L 417.338491 199.398474 
+L 435.933744 189.284756 
+L 443.903138 185.245785 
+L 450.544299 182.116781 
+L 457.185461 179.240415 
+L 463.826622 176.639092 
+L 470.467784 174.324841 
+L 477.108946 172.301015 
+L 483.750107 170.563972 
+L 490.391269 169.104648 
+L 497.032431 167.909957 
+L 503.673592 166.964 
+L 510.314754 166.249082 
+L 516.955915 165.74653 
+L 524.925309 165.397053 
+L 532.894703 165.293624 
+L 540.864097 165.405077 
+L 550.161723 165.767701 
+L 560.787582 166.436898 
+L 572.741673 167.447387 
+L 586.023996 168.809694 
+L 601.962784 170.672098 
+L 601.962784 170.672098 
+" clip-path="url(#p0313cea569)" style="fill: none; stroke: #b2182b; stroke-width: 2.2; stroke-linecap: square"/>
+    <g clip-path="url(#p0313cea569)">
+     <use xlink:href="#mf4d3596cf9" x="362.880966" y="218.310781" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="382.804451" y="215.243761" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="402.727936" y="207.119089" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="422.65142" y="196.470037" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="442.574905" y="185.899104" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="462.49839" y="177.136639" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="482.421875" y="170.888807" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="502.34536" y="167.134123" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="522.268845" y="165.484625" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="542.19233" y="165.442454" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="562.115814" y="166.536931" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="582.039299" y="168.379192" style="fill: #b2182b; stroke: #b2182b"/>
+     <use xlink:href="#mf4d3596cf9" x="601.962784" y="170.672098" style="fill: #b2182b; stroke: #b2182b"/>
+    </g>
+   </g>
+   <g id="line2d_39">
+    <path d="M 362.880966 90.342961 
+L 370.85036 90.458559 
+L 378.819754 90.80565 
+L 386.789148 91.384891 
+L 394.758542 92.196645 
+L 402.727936 93.240086 
+L 410.69733 94.512262 
+L 418.666723 96.007338 
+L 426.636117 97.716141 
+L 435.933744 99.962876 
+L 445.23137 102.457807 
+L 454.528996 105.170773 
+L 465.154855 108.495373 
+L 478.437178 112.910604 
+L 495.704198 118.926359 
+L 543.520562 135.757092 
+L 559.45935 141.069463 
+L 574.069905 145.716215 
+L 588.680461 150.124665 
+L 601.962784 153.914763 
+L 601.962784 153.914763 
+" clip-path="url(#p0313cea569)" style="fill: none; stroke: #007a50; stroke-width: 2.2; stroke-linecap: square"/>
+    <g clip-path="url(#p0313cea569)">
+     <use xlink:href="#m1cc3353fb0" x="362.880966" y="90.342961" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="382.804451" y="91.066212" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="402.727936" y="93.240086" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="422.65142" y="96.835732" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="442.574905" y="101.721327" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="462.49839" y="107.644456" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="482.421875" y="114.277489" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="502.34536" y="121.283878" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="522.268845" y="128.368951" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="542.19233" y="135.304323" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="562.115814" y="141.931143" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="582.039299" y="148.151403" style="fill: #007a50; stroke: #007a50"/>
+     <use xlink:href="#m1cc3353fb0" x="601.962784" y="153.914763" style="fill: #007a50; stroke: #007a50"/>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 350.926875 218.310781 
+L 350.926875 21.310781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 350.926875 218.310781 
+L 613.916875 218.310781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="482.421875" y="15.310781" transform="rotate(-0 482.421875 15.310781)">(b) Initially directional coupling: D=1</text>
+   </g>
+   <g id="legend_2">
+    <g id="patch_9">
+     <path d="M 501.437969 67.458281 
+L 607.616875 67.458281 
+Q 609.416875 67.458281 609.416875 65.658281 
+L 609.416875 27.610781 
+Q 609.416875 25.810781 607.616875 25.810781 
+L 501.437969 25.810781 
+Q 499.637969 25.810781 499.637969 27.610781 
+L 499.637969 65.658281 
+Q 499.637969 67.458281 501.437969 67.458281 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_40">
+     <path d="M 503.237969 32.896875 
+L 512.237969 32.896875 
+L 521.237969 32.896875 
+" style="fill: none; stroke: #4a1f7a; stroke-width: 2.2; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#mf42714a7cc" x="512.237969" y="32.896875" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     </g>
+    </g>
+    <g id="text_40">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="528.437969" y="36.046875" transform="rotate(-0 528.437969 36.046875)">Forward bus</text>
+    </g>
+    <g id="line2d_41">
+     <path d="M 503.237969 45.879375 
+L 512.237969 45.879375 
+L 521.237969 45.879375 
+" style="fill: none; stroke: #b2182b; stroke-width: 2.2; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#mf4d3596cf9" x="512.237969" y="45.879375" style="fill: #b2182b; stroke: #b2182b"/>
+     </g>
+    </g>
+    <g id="text_41">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="528.437969" y="49.029375" transform="rotate(-0 528.437969 49.029375)">Backward bus</text>
+    </g>
+    <g id="line2d_42">
+     <path d="M 503.237969 58.861875 
+L 512.237969 58.861875 
+L 521.237969 58.861875 
+" style="fill: none; stroke: #007a50; stroke-width: 2.2; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#m1cc3353fb0" x="512.237969" y="58.861875" style="fill: #007a50; stroke: #007a50"/>
+     </g>
+    </g>
+    <g id="text_42">
+     <text style="font-size: 9px; font-family: 'Trebuchet MS'; text-anchor: start" x="528.437969" y="62.011875" transform="rotate(-0 528.437969 62.011875)">Both bus directions</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1506b08fe9">
+   <rect x="42.726875" y="21.310781" width="262.99" height="197"/>
+  </clipPath>
+  <clipPath id="p0313cea569">
+   <rect x="350.926875" y="21.310781" width="262.99" height="197"/>
+  </clipPath>
+ </defs>
+</svg>

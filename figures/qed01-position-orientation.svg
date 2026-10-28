@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="599.5975pt" height="222.343281pt" viewBox="0 0 599.5975 222.343281" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T12:24:32.283557</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 222.343281 
+L 599.5975 222.343281 
+L 599.5975 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 42.726875 184.268281 
+L 291.024375 184.268281 
+L 291.024375 21.310781 
+L 42.726875 21.310781 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m1abb45ad0c" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="42.726875" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="42.726875" y="198.641719" transform="rotate(-0 42.726875 198.641719)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="77.212639" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="77.212639" y="198.641719" transform="rotate(-0 77.212639 198.641719)">25</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="111.698403" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="111.698403" y="198.641719" transform="rotate(-0 111.698403 198.641719)">50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="146.184167" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="146.184167" y="198.641719" transform="rotate(-0 146.184167 198.641719)">75</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="180.669931" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="180.669931" y="198.641719" transform="rotate(-0 180.669931 198.641719)">100</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="215.155694" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="215.155694" y="198.641719" transform="rotate(-0 215.155694 198.641719)">125</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="249.641458" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="249.641458" y="198.641719" transform="rotate(-0 249.641458 198.641719)">150</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="284.127222" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="284.127222" y="198.641719" transform="rotate(-0 284.127222 198.641719)">175</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <!-- Dipole–field angle $\vartheta$ (degrees) -->
+     <g transform="translate(93.230625 212.833281)">
+      <text>
+       <tspan x="0" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">D</tspan>
+       <tspan x="6.746094" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">i</tspan>
+       <tspan x="9.882812" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">p</tspan>
+       <tspan x="16.01123" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">o</tspan>
+       <tspan x="21.914062" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">l</tspan>
+       <tspan x="25.158203" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="31.157715" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">–</tspan>
+       <tspan x="35.196777" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">f</tspan>
+       <tspan x="39.262695" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">i</tspan>
+       <tspan x="42.399414" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="48.398926" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">l</tspan>
+       <tspan x="51.643066" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">d</tspan>
+       <tspan x="57.771484" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="61.085449" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">a</tspan>
+       <tspan x="66.864746" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">n</tspan>
+       <tspan x="72.875" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">g</tspan>
+       <tspan x="78.396484" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">l</tspan>
+       <tspan x="81.640625" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="87.640137" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="97.453125" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'"> </tspan>
+       <tspan x="100.76709" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">(</tspan>
+       <tspan x="104.806152" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">d</tspan>
+       <tspan x="110.93457" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="116.934082" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">g</tspan>
+       <tspan x="122.455566" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">r</tspan>
+       <tspan x="126.730957" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="132.730469" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">e</tspan>
+       <tspan x="138.72998" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">s</tspan>
+       <tspan x="143.182617" y="-0.890625" style="font-size: 11px; font-family: 'Trebuchet MS'">)</tspan>
+       <tspan x="90.954102" y="-0.890625" style="font-size: 11px; font-family: 'cmmi10'">#</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9">
+      <defs>
+       <path id="m1fd70d7d8c" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="42.726875" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="187.955" transform="rotate(-0 35.726875 187.955)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="42.726875" y="153.228757" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="156.915476" transform="rotate(-0 35.726875 156.915476)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="42.726875" y="122.189234" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="125.875952" transform="rotate(-0 35.726875 125.875952)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="42.726875" y="91.14971" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="94.836429" transform="rotate(-0 35.726875 94.836429)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="42.726875" y="60.110186" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="63.796905" transform="rotate(-0 35.726875 63.796905)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="42.726875" y="29.070662" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="35.726875" y="32.757381" transform="rotate(-0 35.726875 32.757381)">1.0</text>
+     </g>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="15.310781" y="102.789531" transform="rotate(-90 15.310781 102.789531)">Normalized coupling squared</text>
+    </g>
+   </g>
+   <g id="line2d_15">
+    <path d="M 42.726875 29.070662 
+L 44.796021 29.177009 
+L 46.865167 29.495757 
+L 48.934313 30.026032 
+L 51.003458 30.766382 
+L 53.072604 31.714778 
+L 55.14175 32.868618 
+L 57.210896 34.224742 
+L 59.280042 35.779432 
+L 62.38376 38.47431 
+L 65.487479 41.589634 
+L 68.591198 45.106197 
+L 71.694917 49.002318 
+L 74.798635 53.253976 
+L 77.902354 57.834959 
+L 82.040646 64.406131 
+L 86.178938 71.440349 
+L 91.351802 80.766457 
+L 97.55924 92.528212 
+L 108.939542 114.780756 
+L 116.181552 128.708724 
+L 121.354417 138.231751 
+L 125.492708 145.468876 
+L 129.631 152.280908 
+L 133.769292 158.59321 
+L 136.87301 162.957659 
+L 139.976729 166.975073 
+L 143.080448 170.620683 
+L 146.184167 173.872012 
+L 149.287885 176.709015 
+L 151.357031 178.361424 
+L 153.426177 179.817329 
+L 155.495323 181.072742 
+L 157.564469 182.12422 
+L 159.633615 182.968882 
+L 161.70276 183.604413 
+L 163.771906 184.02907 
+L 165.841052 184.24169 
+L 167.910198 184.24169 
+L 169.979344 184.02907 
+L 172.04849 183.604413 
+L 174.117635 182.968882 
+L 176.186781 182.12422 
+L 178.255927 181.072742 
+L 180.325073 179.817329 
+L 182.394219 178.361424 
+L 184.463365 176.709015 
+L 187.567083 173.872012 
+L 190.670802 170.620683 
+L 193.774521 166.975073 
+L 196.87824 162.957659 
+L 199.981958 158.59321 
+L 203.085677 153.908634 
+L 207.223969 147.214738 
+L 211.36226 140.07662 
+L 216.535125 130.648823 
+L 222.742563 118.8086 
+L 242.399448 80.766457 
+L 247.572313 71.440349 
+L 251.710604 64.406131 
+L 255.848896 57.834959 
+L 258.952615 53.253976 
+L 262.056333 49.002318 
+L 265.160052 45.106197 
+L 268.263771 41.589634 
+L 271.36749 38.47431 
+L 274.471208 35.779432 
+L 276.540354 34.224742 
+L 278.6095 32.868618 
+L 280.678646 31.714778 
+L 282.747792 30.766382 
+L 284.816937 30.026032 
+L 286.886083 29.495757 
+L 288.955229 29.177009 
+L 291.024375 29.070662 
+L 291.024375 29.070662 
+" clip-path="url(#p9d84efd223)" style="fill: none; stroke: #4a1f7a; stroke-width: 2.2; stroke-linecap: square"/>
+    <defs>
+     <path id="m29a1ec2a69" d="M 0 1.6 
+C 0.424325 1.6 0.831328 1.431414 1.131371 1.131371 
+C 1.431414 0.831328 1.6 0.424325 1.6 0 
+C 1.6 -0.424325 1.431414 -0.831328 1.131371 -1.131371 
+C 0.831328 -1.431414 0.424325 -1.6 0 -1.6 
+C -0.424325 -1.6 -0.831328 -1.431414 -1.131371 -1.131371 
+C -1.431414 -0.831328 -1.6 -0.424325 -1.6 0 
+C -1.6 0.424325 -1.431414 0.831328 -1.131371 1.131371 
+C -0.831328 1.431414 -0.424325 1.6 0 1.6 
+z
+" style="stroke: #4a1f7a"/>
+    </defs>
+    <g clip-path="url(#p9d84efd223)">
+     <use xlink:href="#m29a1ec2a69" x="42.726875" y="29.070662" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="63.418333" y="39.466931" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="84.109792" y="67.870067" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="104.80125" y="106.669472" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="125.492708" y="145.468876" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="146.184167" y="173.872012" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="166.875625" y="184.268281" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="187.567083" y="173.872012" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="208.258542" y="145.468876" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="228.95" y="106.669472" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="249.641458" y="67.870067" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="270.332917" y="39.466931" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="291.024375" y="29.070662" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 42.726875 184.268281 
+L 42.726875 21.310781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 42.726875 184.268281 
+L 291.024375 184.268281 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="166.875625" y="15.310781" transform="rotate(-0 166.875625 15.310781)">(a) Orientation</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 336.234375 184.268281 
+L 584.531875 184.268281 
+L 584.531875 21.310781 
+L 336.234375 21.310781 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_9">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="336.234375" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="336.234375" y="198.641719" transform="rotate(-0 336.234375 198.641719)">0</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="367.271563" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="367.271563" y="198.641719" transform="rotate(-0 367.271563 198.641719)">50</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="398.30875" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="398.30875" y="198.641719" transform="rotate(-0 398.30875 198.641719)">100</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="429.345938" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="429.345938" y="198.641719" transform="rotate(-0 429.345938 198.641719)">150</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="460.383125" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="460.383125" y="198.641719" transform="rotate(-0 460.383125 198.641719)">200</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="491.420313" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="491.420313" y="198.641719" transform="rotate(-0 491.420313 198.641719)">250</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="522.4575" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="522.4575" y="198.641719" transform="rotate(-0 522.4575 198.641719)">300</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="553.494688" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="553.494688" y="198.641719" transform="rotate(-0 553.494688 198.641719)">350</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m1abb45ad0c" x="584.531875" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: middle" x="584.531875" y="198.641719" transform="rotate(-0 584.531875 198.641719)">400</text>
+     </g>
+    </g>
+    <g id="text_27">
+     <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="460.383125" y="212.804062" transform="rotate(-0 460.383125 212.804062)">Height above the reference surface (nm)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="336.234375" y="184.268281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="329.234375" y="187.955" transform="rotate(-0 329.234375 187.955)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="336.234375" y="153.228757" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="329.234375" y="156.915476" transform="rotate(-0 329.234375 156.915476)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="336.234375" y="122.189234" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="329.234375" y="125.875952" transform="rotate(-0 329.234375 125.875952)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="336.234375" y="91.14971" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="329.234375" y="94.836429" transform="rotate(-0 329.234375 94.836429)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="336.234375" y="60.110186" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="329.234375" y="63.796905" transform="rotate(-0 329.234375 63.796905)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m1fd70d7d8c" x="336.234375" y="29.070662" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font-size: 10px; font-family: 'Trebuchet MS'; text-anchor: end" x="329.234375" y="32.757381" transform="rotate(-0 329.234375 32.757381)">1.0</text>
+     </g>
+    </g>
+    <g id="text_34">
+     <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="308.818281" y="102.789531" transform="rotate(-90 308.818281 102.789531)">Normalized coupling squared</text>
+    </g>
+   </g>
+   <g id="line2d_31">
+    <path d="M 336.234375 29.070662 
+L 339.338094 43.839668 
+L 342.441813 57.203218 
+L 345.545531 69.295057 
+L 348.64925 80.236206 
+L 351.752969 90.136167 
+L 354.856688 99.094022 
+L 357.960406 107.199424 
+L 361.064125 114.533496 
+L 364.167844 121.169638 
+L 367.271563 127.174268 
+L 370.375281 132.607482 
+L 373.479 137.523657 
+L 376.582719 141.971996 
+L 379.686438 145.99702 
+L 382.790156 149.639012 
+L 385.893875 152.934422 
+L 388.997594 155.916233 
+L 392.101313 158.614287 
+L 395.205031 161.055588 
+L 398.30875 163.264568 
+L 402.447042 165.886391 
+L 406.585333 168.180942 
+L 410.723625 170.189071 
+L 414.861917 171.946532 
+L 419.000208 173.484615 
+L 424.173073 175.140105 
+L 429.345938 176.541447 
+L 434.518802 177.727657 
+L 440.72624 178.913271 
+L 446.933677 179.88397 
+L 454.175688 180.796391 
+L 462.452271 181.609062 
+L 471.763427 182.298283 
+L 483.143729 182.902993 
+L 496.593177 183.383104 
+L 514.180917 183.76602 
+L 537.976094 184.034951 
+L 574.186146 184.195621 
+L 584.531875 184.216218 
+L 584.531875 184.216218 
+" clip-path="url(#p83f31d142a)" style="fill: none; stroke: #4a1f7a; stroke-width: 2.2; stroke-linecap: square"/>
+    <g clip-path="url(#p83f31d142a)">
+     <use xlink:href="#m29a1ec2a69" x="336.234375" y="29.070662" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="356.925833" y="104.587167" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="377.617292" y="143.358633" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="398.30875" y="163.264568" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="419.000208" y="173.484615" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="439.691667" y="178.731762" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="460.383125" y="181.425738" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="481.074583" y="182.808871" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="501.766042" y="183.518995" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="522.4575" y="183.883585" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="543.148958" y="184.070772" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="563.840417" y="184.166876" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+     <use xlink:href="#m29a1ec2a69" x="584.531875" y="184.216218" style="fill: #4a1f7a; stroke: #4a1f7a"/>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 336.234375 184.268281 
+L 336.234375 21.310781 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 336.234375 184.268281 
+L 584.531875 184.268281 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_35">
+    <!-- Field-amplitude length $\ell=100$ nm -->
+    <g transform="translate(421.899975 37.606531)">
+     <text>
+      <tspan x="0" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">F</tspan>
+      <tspan x="5.249023" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">i</tspan>
+      <tspan x="8.100586" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">e</tspan>
+      <tspan x="13.554688" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">l</tspan>
+      <tspan x="16.503906" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">d</tspan>
+      <tspan x="22.075195" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">-</tspan>
+      <tspan x="25.74707" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">a</tspan>
+      <tspan x="31.000977" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">m</tspan>
+      <tspan x="39.301758" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">p</tspan>
+      <tspan x="44.873047" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">l</tspan>
+      <tspan x="47.822266" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">i</tspan>
+      <tspan x="50.673828" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">t</tspan>
+      <tspan x="54.638672" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">u</tspan>
+      <tspan x="60.102539" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">d</tspan>
+      <tspan x="65.673828" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">e</tspan>
+      <tspan x="71.12793" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'"> </tspan>
+      <tspan x="74.140625" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">l</tspan>
+      <tspan x="77.089844" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">e</tspan>
+      <tspan x="82.543945" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">n</tspan>
+      <tspan x="88.007812" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">g</tspan>
+      <tspan x="93.027344" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">t</tspan>
+      <tspan x="96.992188" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">h</tspan>
+      <tspan x="102.456055" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'"> </tspan>
+      <tspan x="135.90918" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'"> </tspan>
+      <tspan x="138.921875" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">n</tspan>
+      <tspan x="144.385742" y="-0.625" style="font-size: 10px; font-family: 'Trebuchet MS'">m</tspan>
+      <tspan x="105.46875" y="-0.625" style="font-size: 10px; font-family: 'cmmi10'">`</tspan>
+      <tspan x="111.384766" y="-0.625" style="font-size: 10px; font-family: 'cmr10'">=</tspan>
+      <tspan x="120.90918" y="-0.625" style="font-size: 10px; font-family: 'cmr10'">1</tspan>
+      <tspan x="125.90918" y="-0.625" style="font-size: 10px; font-family: 'cmr10'">0</tspan>
+      <tspan x="130.90918" y="-0.625" style="font-size: 10px; font-family: 'cmr10'">0</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 11px; font-family: 'Trebuchet MS'; text-anchor: middle" x="460.383125" y="15.310781" transform="rotate(-0 460.383125 15.310781)">(b) Evanescent field</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9d84efd223">
+   <rect x="42.726875" y="21.310781" width="248.2975" height="162.9575"/>
+  </clipPath>
+  <clipPath id="p83f31d142a">
+   <rect x="336.234375" y="21.310781" width="248.2975" height="162.9575"/>
+  </clipPath>
+ </defs>
+</svg>
